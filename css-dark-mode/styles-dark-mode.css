@@ -73,24 +73,24 @@ a:hover {
   margin: auto;
 }
 
-.top-cloud {
+.top-star {
   position: absolute;
   top: 5%;
-  right: 20%;
-  height: 10rem;
+  right: 15%;
+  height: 20%;
 }
 
-.bottom-cloud {
+.bottom-star {
   position: absolute;
   left: 17%;
-  bottom: 35%;
-  height: 12rem;
+  bottom: 38%;
+  height: 15%;
 }
 
 .moon {
   position: absolute;
   height: 15rem;
-  left: 7%;
+  left: 6%;
   top: 7%;
 }
 
