@@ -75,20 +75,23 @@ a:hover {
 
 .top-cloud {
   position: absolute;
-  top: 2rem;
-  right: 15rem;
+  top: 5%;
+  right: 20%;
   height: 10rem;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 15rem;
-  bottom: 25rem;
-  height: 12.5rem;
+  left: 17%;
+  bottom: 35%;
+  height: 12rem;
 }
 
-.mountain {
-  height: 75%;
+.moon {
+  position: absolute;
+  height: 15rem;
+  left: 7%;
+  top: 7%;
 }
 
 .profile-img {
