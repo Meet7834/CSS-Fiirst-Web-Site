@@ -4,6 +4,7 @@ body {
   text-align: center;
   font-family: 'Merriweather', serif;
   font-size: 1.25rem;
+  background-color: inherit;
 }
 
 h1 {
@@ -32,7 +33,7 @@ hr {
   border-top-style: dotted;
   border-width: 7px;
   margin: 100px auto;
-  border-color: grey;
+  border-color: #191919;
 
 }
 
@@ -60,11 +61,6 @@ a:hover {
 
 .middle-container {
   margin: 100px 0;
-}
-
-.bottom-container {
-  background-color: #66BFBF;
-  padding: 50px 0 20px;
 }
 
 .intro {
@@ -122,6 +118,15 @@ a:hover {
 .contact-info {
   width: 40%;
   margin: 40px auto 40px;
+}
+
+.social-png {
+  height: 3rem;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
 }
 
 .btn {

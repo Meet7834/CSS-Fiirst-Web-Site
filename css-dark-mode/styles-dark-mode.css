@@ -4,6 +4,7 @@ body {
   text-align: center;
   font-family: 'Merriweather', serif;
   font-size: 1.25rem;
+  background-color: #191919;
 }
 
 h1 {
@@ -119,6 +120,10 @@ a:hover {
 .contact-info {
   width: 40%;
   margin: 40px auto 40px;
+}
+
+.social-png {
+  height: 3rem;
 }
 
 .btn {
